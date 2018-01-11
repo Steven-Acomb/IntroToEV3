@@ -22,6 +22,7 @@ Authors: Dave Fisher and PUT_YOUR_NAME_HERE.
 
 import ev3dev.ev3 as ev3
 import time
+import time
 
 
 def main():
